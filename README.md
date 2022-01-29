@@ -3,7 +3,7 @@ I am focused on writing iOS apps these days and my background is in Creative Tec
 ## iOS Apps
 - [No Place to Go](https://github.com/TravelByRocket/no-place-to-go) -- My first paid app gig was for a socially distanced haunted house
 - [So Much Coffee](https://github.com/TravelByRocket/so-much-coffee) -- I first learned Swift+SwiftUI while creating this app as the subject of M.S. thesis project so that I could finally find and coffee shops the way I wanted
-- [Point One K](https://github.com/TravelByRocket/point-one-k) -- I created this app while studying the Ultimate Portfolio App course from Paul (IMO, "The King") Hudson
+- [Point One K](https://github.com/TravelByRocket/point-one-k) -- I created this app while studying the Ultimate Portfolio App course from [Paul (IMO, "The King") Hudson](https://github.com/twostraws)
 - [Torn Assistant](https://github.com/TravelByRocket/torn-asst) -- An app to track and manage copious notifications related to the online crime game [Torn](https://www.torn.com/2544362)
 - Wild Camp -- Find the right USFS map at the right time for dispersed camping
 - Awesome Timer -- Keep track of all the time you did something awesome
