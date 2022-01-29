@@ -6,10 +6,9 @@ I am focused on writing iOS apps these days and my background is in Creative Tec
 - [Point One K](https://github.com/TravelByRocket/point-one-k) -- I created this app while studying the Ultimate Portfolio App course from [Paul (IMO, "The King") Hudson](https://github.com/twostraws)
 - [Torn Assistant](https://github.com/TravelByRocket/torn-asst) -- An app to track and manage copious notifications related to the online crime game [Torn](https://www.torn.com/2544362)
 - Wild Camp -- Find the right USFS map at the right time for dispersed camping
-- Awesome Timer -- Keep track of all the time you did something awesome
-<!-- [Awesome Timer](https://github.com/TravelByRocket/awesome-timer) -- Keep track of all the time you did something awesome-->
-- Gravelmap -- Creating an iOS native version of [gravelmap.com](http://gravelmap.com)
-<!--[Gravelmap](https://github.com/TravelByRocket/gravelmap) -- Creating an iOS notive version of [gravelmap.com](http://gravelmap.com)-->
+- Awesome Timer -- Keep track of all the time you did something awesome<!-- [Awesome Timer](https://github.com/TravelByRocket/awesome-timer) -- Keep track of all the time you did something awesome-->
+- Gravelmap -- Creating an iOS native version of [gravelmap.com](http://gravelmap.com)<!--[Gravelmap](https://github.com/TravelByRocket/gravelmap) -- Creating an iOS notive version of [gravelmap.com](http://gravelmap.com)-->
+
 
 ## Interactive Art Installations
 - [Permutate](https://github.com/TravelByRocket/permutate) -- LED-illuminated touch-reactive inflatable sculpture that was first displayed in public at Canal Convergence 2019 in Scottsdale, Arizona
