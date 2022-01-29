@@ -1,4 +1,4 @@
-### Hi there 👋
+I am focused on writing iOS apps these days and my background is in Creative Technologies & Design and Aerospace Engineering. Here are some of my largest, most recent, and favorite projects:
 
 ## iOS Apps
 - [No Place to Go](https://github.com/TravelByRocket/no-place-to-go) -- My first paid app gig was for a socially distanced haunted house
