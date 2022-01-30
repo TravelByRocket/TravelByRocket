@@ -1,12 +1,12 @@
-I am focused on writing iOS apps these days and my background is in Creative Technologies & Design and Aerospace Engineering. Here are some of my largest, most recent, and favorite projects:
+I am focused on being a product-focused iOS developer these days. My academic background is Creative Technologies & Design and Aerospace Engineering while I have professional experience as an engineer, teacher, communicator, and more. Below are some of my largest, most recent, and favorite projects.
 
 ## iOS Apps
 - [No Place to Go](https://github.com/TravelByRocket/no-place-to-go) -- My first paid app gig was for a socially distanced haunted house
-- [So Much Coffee](https://github.com/TravelByRocket/so-much-coffee) -- I first learned Swift+SwiftUI while creating this app as the subject of M.S. thesis project so that I could finally find and coffee shops the way I wanted
+- [So Much Coffee](https://github.com/TravelByRocket/so-much-coffee) -- I first learned Swift+SwiftUI while creating this app as the subject of M.S. thesis project so that I could finally find and enjoy coffee shops the way I wanted
 - [Point One K](https://github.com/TravelByRocket/point-one-k) -- I created this app while studying the Ultimate Portfolio App course from [Paul (IMO, "The King") Hudson](https://github.com/twostraws)
 - [Torn Assistant](https://github.com/TravelByRocket/torn-asst) -- An app to track and manage copious notifications related to the online crime game [Torn](https://www.torn.com/2544362)
 - Wild Camp -- Find the right USFS map at the right time for dispersed camping
-- Awesome Timer -- Keep track of all the time you did something awesome
+- Awesome Timer -- Keep track of all the times you did something awesome
 - Gravelmap -- Creating an iOS native version of [gravelmap.com](http://gravelmap.com)
 
 
@@ -27,7 +27,7 @@ I am focused on writing iOS apps these days and my background is in Creative Tec
 - Starship Trainer
 - Immersive Science Visualizations
 
-<!-- [Awesome Timer](https://github.com/TravelByRocket/awesome-timer) -- Keep track of all the time you did something awesome-->
+<!-- [Awesome Timer](https://github.com/TravelByRocket/awesome-timer) -- Keep track of all the times you did something awesome-->
 <!--[Gravelmap](https://github.com/TravelByRocket/gravelmap) -- Creating an iOS notive version of [gravelmap.com](http://gravelmap.com)-->
 <!--
 **TravelByRocket/TravelByRocket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
